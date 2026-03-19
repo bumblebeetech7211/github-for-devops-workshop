@@ -3,3 +3,6 @@ git status
 git add <filename>
 git commit -m "your message"
 git restore <deleted committed filename>
+git remote -v
+git push origin master
+git clone <paste repo http url link>
