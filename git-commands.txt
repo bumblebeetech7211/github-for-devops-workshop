@@ -6,3 +6,7 @@ git restore <deleted committed filename>
 git remote -v
 git push origin master
 git clone <paste repo http url link>
+
+
+
+THIS IS SONE NEW CHANGES
